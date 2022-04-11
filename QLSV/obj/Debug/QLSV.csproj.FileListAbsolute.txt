@@ -1,0 +1,17 @@
+D:\SoftDreams\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\SoftDreams\QLSV\QLSV\obj\Debug\QLSV.csproj.SuggestedBindingRedirects.cache
+D:\SoftDreams\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\SoftDreams\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\SoftDreams\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\SoftDreams\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\SoftDreams\QLSV\QLSV\bin\Debug\Castle.Core.dll
+D:\SoftDreams\QLSV\QLSV\bin\Debug\Castle.Windsor.dll
+D:\SoftDreams\QLSV\QLSV\bin\Debug\Newtonsoft.Json.dll
+D:\SoftDreams\QLSV\QLSV\bin\Debug\Castle.Core.xml
+D:\SoftDreams\QLSV\QLSV\bin\Debug\Castle.Windsor.xml
+D:\SoftDreams\QLSV\QLSV\bin\Debug\Newtonsoft.Json.xml
+D:\SoftDreams\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+D:\SoftDreams\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\SoftDreams\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\SoftDreams\QLSV\QLSV\bin\Debug\Dapper.dll
+D:\SoftDreams\QLSV\QLSV\bin\Debug\Dapper.xml

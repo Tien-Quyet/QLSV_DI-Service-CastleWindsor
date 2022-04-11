@@ -1,0 +1,1 @@
+[{"MaSV":1881,"Ten":"Nguyễn Tiến Quyết","GioiTinh":"Nam","NamSinh":"2000","Lop":"CNPM","Khoa":"2018-2023"},{"MaSV":1882,"Ten":"Nguyễn Văn Huy","GioiTinh":"Nam","NamSinh":"2000","Lop":"CNPM","Khoa":"2018-2023"}]

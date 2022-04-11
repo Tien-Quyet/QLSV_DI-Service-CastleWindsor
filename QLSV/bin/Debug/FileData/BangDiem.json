@@ -1,0 +1,768 @@
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":null}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":null}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":null}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":null}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":null}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":null}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":0.0,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình Web","DiemQT":7.0,"DiemTP":9.0,"DTK":8.0,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Tự động hóa","DiemQT":9.0,"DiemTP":8.0,"DTK":8.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1881,"TenSV":"Nguyễn Tiến Quyết","TenMH":"Lập trình hệ thống","DiemQT":7.0,"DiemTP":8.0,"DTK":7.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình Web","DiemQT":5.0,"DiemTP":6.0,"DTK":5.5,"DTB":0.0,"HocLuc":"Đạt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn huy","TenMH":"Tự động hóa","DiemQT":2.0,"DiemTP":3.0,"DTK":2.5,"DTB":0.0,"HocLuc":"Trượt"}
+{"MaSV":1882,"TenSV":"Nguyễn Văn Huy","TenMH":"Lập trình hệ thống","DiemQT":2.0,"DiemTP":1.0,"DTK":1.5,"DTB":0.0,"HocLuc":"Trượt"}
